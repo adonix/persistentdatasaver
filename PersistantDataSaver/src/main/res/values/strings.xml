@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Persistant Data Saver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_name">enter your name</string>
+    <string name="click_store">click to store</string>
+
+</resources>
